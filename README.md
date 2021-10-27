@@ -44,3 +44,10 @@ First the customer will be asked if they want to enter the application or quit t
 +  The customer are expected to follow exactly what is stated in the instruction for desired result.
 - Incase of invalid input parameter, the application will throw InvalidInputException(custom excpetion class) or IOException.
 ```
+
+```diff
++Method used to solve the task:
+   I used sql class diagarm to get appropriate relationship between classes. Then I write the 
+   testcase needed for method that will be used in the class. I feel more comfortable and organized
+   in this process.
+```
