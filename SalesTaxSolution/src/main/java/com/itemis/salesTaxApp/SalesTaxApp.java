@@ -131,7 +131,7 @@ public class SalesTaxApp
 		String informationMessageItem = "Please enter the index of the item that you want to buy( enter 0 if you want to quit this application) :";
 		String informationMessageAdditionalItem = "Do you want to buy more items? If yes, choose the item from list and enter the index of the item you want to buy."
 				+ "\n1. Book \n2. Choclate Bar \n3. Choclate Box \n4. Packet of headache pills  \n5. Music CD \n6. Perfume "
-				+ "Else, enter 0 to get your order and receipt of the order. ";
+				+ "\nElse, enter 0 to get your order and receipt of the order. ";
 		String informationMessagePrice = "Please enter the price(we expect that you are paying some amount to purchase the item i.e. the price cannot be less than or equal to 0.01): ";
 		String informationMessageQuantity = "Please enter the quantity of the item you are buying:";
 		String informationMessageImportStatus = "Please type \"true\" if the item is imported else type \"false\"(without quotes): ";
